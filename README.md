@@ -10,7 +10,7 @@
  
  🔭 I’m currently working on **a project to detect cancerous CT scan images using deep learning and computer vision**
  
- 🌱 I’m currently studying **Computer Systems Engineering (BEng) at the University of Warwick**
+ 🌱 Studying **Computer Systems Engineering (BEng) at the University of Warwick**
 
  🧠 Experienced in **Python, SQL, and a little bit of Java programming**
 
