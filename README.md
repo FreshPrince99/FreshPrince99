@@ -12,8 +12,6 @@
  
  🌱 Studying **Computer Systems Engineering (BEng) at the University of Warwick**
 
- 🧠 Experienced in **Python, SQL, and a little bit of Java programming**
-
  </div>
  
 <div align="center"> 
