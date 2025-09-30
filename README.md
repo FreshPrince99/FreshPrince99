@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a project to detect cancerous CT scan images using deep learning and computer vision**
+ 🔭 I’m currently working on **a project to enhance productivity using EEG signals and audio neurofeedback using AI generated songs**
  
  🌱 Studying **Computer Systems Engineering (BEng) at the University of Warwick**
 
